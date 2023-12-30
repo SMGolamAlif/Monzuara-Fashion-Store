@@ -1,0 +1,29 @@
+@import '~bootstrap';
+
+$theme-color: #bf9b30;
+$front-text-color: #333;
+$front-font-weight-bold: 500;
+$front-footer-header-weight: 500;
+$front-footer-bg: #333;
+$front-footer-text-color: #fff;
+$front-footer-link-color: #fff;
+
+$btn-action-color: #fff;
+$btn-action-bg: #000;
+$btn-action-border: #000;
+
+$products-gutter: 15px;
+
+@import 'functions/stripUnits';
+@import 'mixins/swiperSlideHeight';
+@import 'mixins/fluidType';
+
+@import 'components/index';
+@import 'themes/moon/index';
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+::selection {
+	background-color: #fdba74;
+	color: #134e4a;
+}

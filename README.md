@@ -1,71 +1,36 @@
-# Monzuara Fashion Website
-
-Welcome to the Monzuara Fashion website repository! This project contains the source code for the Monzuara Fashion website, an online platform dedicated to showcasing our high-quality apparel and accessories.
-
-## About
-
-Monzuara Fashion is a fashion brand that started in 2019 with a vision to provide stylish and high-quality clothing and accessories. Our mini factory, located in Gazipur, Dhaka, is equipped with state-of-the-art machines, and our team is dedicated to crafting unique and comfortable fashion pieces.
-
-## Features
-
-- **About Us Section:** Learn about our journey, global presence, and commitment to quality.
-- **Product Showcase:** Browse through a diverse range of high-quality wearable items.
-- **Google Map Integration:** Locate our factory in Gazipur, Dhaka, through the embedded Google Map.
-- **Responsive Design:** The website is optimized for a seamless experience across various devices.
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-To get a copy of the project up and running on your local machine, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/monzuara-fashion-website.git
-   ```
-2. **Navigate to the project directory::**
-
-   ```bash
-   	cd monzuara-fashion-website
-
-   ```
-
-   Install dependencies using Yarn:
+First, run the development server:
 
 ```bash
-yarn install
-```
-
-Start the development server:
-
-```bash
+npm run dev
+# or
 yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-The website should now be accessible at http://localhost:3000.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Tech Stack
-Node.js
-React
-Sass
-JavaScript
-Tailwind CSS
-Yarn
-Headless CMS
-Contributing
-We welcome contributions! If you find a bug or have a feature request, please open an issue. Pull requests are also encouraged. For major changes, please open an issue first to discuss what you would like to change.
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-![Monzuara Fashion Wesite Screenshot - 1](assets/ss1.png)
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-![Monzuara Fashion Wesite Screenshot - 1](assets/ss2.png)
+## Learn More
 
-![Monzuara Fashion Wesite Screenshot - 1](assets/ss3.png)
+To learn more about Next.js, take a look at the following resources:
 
-## License
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-This project is not licensed under any open source licenses. It is proprietary and all rights are reserved. See the LICENSE.md file for details.
-Copyright (c) 2023 Golam ALif
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## All rights reserved.
+## Deploy on Vercel
 
-No part of this software and associated documentation files (the "Software"), may be reproduced, stored in a retrieval system or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the author.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

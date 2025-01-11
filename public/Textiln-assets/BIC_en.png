@@ -1,0 +1,109 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1"><title>
+	Error
+</title>
+    <style type="text/css">
+            <!--
+
+            body
+            {
+                margin:10% auto;
+                background:#f3f3f3;
+                text-align:center;
+                font-family:Georgia, "Times New Roman", Times, serif;
+                color:#333;
+                font-size:14px;
+                line-height:1.8em;
+            }
+
+            #txt_box
+            {
+                width:500px;
+                height:390px;
+                padding: 5%;
+                background:#FFF;
+                border: solid 1px #ccc;
+                margin:0 auto;
+            }
+
+            h1
+            {
+                font-size:24px;
+                color:#C00;
+            }
+
+            h2
+            {
+                font-size:16px;
+                color:#0090f9;
+            }
+
+            .separation
+            {
+                border-bottom:dotted 1px #c9c9c9;
+                margin:0 auto 40px auto;
+            }
+
+            #btn_back
+            {
+                width:200px;
+                height:30px;
+                background-color: rgb( 138, 192, 0);
+                color:#FFF;
+                margin:30px auto 0 auto;
+                padding:3px 0 5px 0;
+            }
+
+            #btn_back a
+            {
+                color:#FFF;
+                text-decoration:none;
+            }
+
+            #btn_back a:hover
+            {
+                text-decoration:underline;
+            }
+
+-->
+        </style>
+</head>
+ 
+
+<body>
+    <form method="post" action="./BIC_en.png?404%3bhttps%3a%2f%2fshop.lavasoft.com%3a443%2fclickgate%2fimages%2fBIC_en.png" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="daODdOS25FKcseprVTYbZAWxalhVXKpj/u8CT6DzeUkCJsUd7MR9n2MPVHdC3ZF9CDIhM6a012JoArYk3wwF9mQJVlFMH2WYXLXuumic82clWoDn" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="193A34DB" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <div id="txt_box">
+
+<h1>Error 404!</h1>
+  	
+<h2>The webpage you are trying to see cannot be found!</h2>
+
+<div class="separation"></div>
+
+<p>Please check the web address you entered to make sure if it's correct. If you see this page <u>after clicking on a link</u>:</p>
+
+<ul>
+  <li>The link may either be out of date – this page doesn’t exist anymore</li>
+  <li>We have temporary issues – please try again later.</li>
+</ul>
+
+<div id="btn_back"><a href="javascript:history.go(-1)">Go Back to Previous Page</a>
+</div>
+
+</div>
+    </form>
+</body>
+</html>

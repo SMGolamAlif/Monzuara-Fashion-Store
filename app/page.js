@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { Menu } from "lucide-react";
 import Navbar from "@/Components/navbar";
 
 export default function Home() {
@@ -39,7 +38,7 @@ export default function Home() {
           {/* Left Content */}
           <div className="w-full md:w-1/2 text-white pt-8 md:pt-16">
             <div className="text-[#D4A853] text-sm tracking-wider mb-6">
-              WELCOME TO TEXTILN
+              WELCOME TO Monzuara Fashion
             </div>
             <h1 className="text-5xl md:text-6xl font-extralight leading-tight mb-8">
               Do Well, Live

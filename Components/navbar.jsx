@@ -16,11 +16,11 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link 
-            href="/" 
-            className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 
+          <Link
+            href="/"
+            className="text-2xl bg-gradient-to-r from-purple-400 to-pink-400 
             text-transparent bg-clip-text hover:from-purple-500 hover:to-pink-500 
-            transition-all duration-300"
+            transition-all duration-300 font-serif"
           >
             Monzuara Fashion
           </Link>
